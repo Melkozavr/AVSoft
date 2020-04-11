@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="00O-Lo-e91">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="biX-r2-DLS">
     <device id="retina5_5" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
@@ -215,7 +215,6 @@
                                 </state>
                                 <connections>
                                     <action selector="addButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="dga-Jf-ITc"/>
-                                    <action selector="writeButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="sQJ-Ko-NDf"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="inZ-EB-CKU">
@@ -231,7 +230,6 @@
                                 </state>
                                 <connections>
                                     <action selector="deleteButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="hkm-AE-hDk"/>
-                                    <action selector="writeButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="qfV-UQ-Gjx"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w1l-lB-zDw">
@@ -247,7 +245,6 @@
                                 </state>
                                 <connections>
                                     <action selector="editButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="Ui1-W7-9r4"/>
-                                    <action selector="writeButton:" destination="00O-Lo-e91" eventType="touchUpInside" id="kSu-SY-e4w"/>
                                 </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="N3z-6T-q5i">
