@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE4DD4DA2441F32600A14AE5 /* DocumentsDirectory.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE4DD4D92441F32600A14AE5 /* DocumentsDirectory.txt */; };
 		CE6C049B243CD362005E79A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C049A243CD362005E79A9 /* AppDelegate.swift */; };
 		CE6C049D243CD362005E79A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C049C243CD362005E79A9 /* SceneDelegate.swift */; };
 		CE6C049F243CD362005E79A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6C049E243CD362005E79A9 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE4DD4D92441F32600A14AE5 /* DocumentsDirectory.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DocumentsDirectory.txt; sourceTree = "<group>"; };
 		CE6C0497243CD362005E79A9 /* AV_Soft_Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AV_Soft_Swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6C049A243CD362005E79A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE6C049C243CD362005E79A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				CE6C049E243CD362005E79A9 /* ViewController.swift */,
 				CEC0ADF4243E0724007EBC5B /* EditViewController.swift */,
 				CE6C04B1243CE04F005E79A9 /* ToolbarViewController.swift */,
+				CE4DD4D92441F32600A14AE5 /* DocumentsDirectory.txt */,
 				CE6C04A0243CD362005E79A9 /* Main.storyboard */,
 				CE6C04A6243CD366005E79A9 /* Assets.xcassets */,
 				CE6C04A8243CD366005E79A9 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE6C04AA243CD366005E79A9 /* LaunchScreen.storyboard in Resources */,
+				CE4DD4DA2441F32600A14AE5 /* DocumentsDirectory.txt in Resources */,
 				CE6C04A7243CD366005E79A9 /* Assets.xcassets in Resources */,
 				CE6C04A2243CD362005E79A9 /* Main.storyboard in Resources */,
 			);
